@@ -5,7 +5,7 @@
 
 3.To delete a notes, click "DELETE" button.
 
-4.If we click on "REFERESH" the information or data are not lost.
+4.If we click on "REFERESH" the information or data are not being lost.
 
 5.The Notes App project is developed by using three web technologies i.e., HTML(Hypertext Markup Language), CSS(Cascading Stylesheet) and JavaScript.
 
